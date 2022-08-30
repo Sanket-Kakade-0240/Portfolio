@@ -32,7 +32,7 @@ body {
 .link-primary {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
-    color: blueviolet;
+    color: white;
 }
 
 .link-secondary {
@@ -112,6 +112,11 @@ body {
     text-align: center;
     color: black;
     border-top-right-radius: 1rem;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer .link {
