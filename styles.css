@@ -74,6 +74,8 @@ body {
 }
 
 .prog {
+    
+
     padding: 2rem;
 }
 
@@ -107,11 +109,13 @@ body {
 }
 
 .footer {
+    margin-top: 3.5%;
     background-color: var(--primary-color);
     padding: 2rem 1rem;
     text-align: center;
     color: black;
     border-top-right-radius: 1rem;
+    
 }
 
 .footer .footer-header {
