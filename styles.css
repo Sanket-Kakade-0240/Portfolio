@@ -13,7 +13,11 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
-
+.intro{
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+}
 .container{
     padding-left: 1rem;
     padding-right: 1rem;
