@@ -115,7 +115,7 @@ body {
     text-align: center;
     color: black;
     border-top-right-radius: 1rem;
-    
+    bottom: 0;
 }
 
 .footer .footer-header {
