@@ -17,6 +17,11 @@ body {
     text-align: center;
     font-weight: bolder;
     font-size: large;
+    margin-bottom: 2rem;
+    margin-top: -2rem;
+}
+.intro .heading-inverted{
+    color: #4cc09d;
 }
 .container{
     padding-left: 1rem;
